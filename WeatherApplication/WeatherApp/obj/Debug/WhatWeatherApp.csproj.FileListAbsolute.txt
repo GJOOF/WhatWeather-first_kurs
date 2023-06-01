@@ -1,0 +1,14 @@
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\bin\Debug\WhatWeather.exe
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\bin\Debug\WhatWeather.exe.config
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\bin\Debug\WhatWeather.pdb
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\obj\Debug\WhatWeatherApp.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\obj\Debug\WhatWeatherApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\obj\Debug\WeatherApplication.Main.resources
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\obj\Debug\WhatWeather.Properties.Resources.resources
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\obj\Debug\WhatWeatherApp.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\obj\Debug\WhatWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\obj\Debug\WhatWeatherApp.csproj.CopyComplete
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\obj\Debug\WhatWeather.exe
+C:\Users\stud\Desktop\Weather-kurs-main\WeatherApplication\WeatherApp\obj\Debug\WhatWeather.pdb
